@@ -42,12 +42,27 @@ font-size: 1.76em;
     margin-bottom: 50px;
 }
 .waters{
-    height: 600px;
-    width: 600px; 
+    height: 530px;
+    width: 530px;
+    padding-top: 40px;
+    padding-left: 40px; 
+    padding-right: 40px; 
+    padding-bottom: 40px;  
 }
 .left{
     text-align: left;
 }
 .right{
     text-align: right;
+}
+.fontwater{
+    font-style: italic;  
+    font-family: "Lucida Console", Times, monospace;
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+}
+.textwater{
+max-width: 7px;
+
+
 }
